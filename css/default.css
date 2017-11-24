@@ -1,0 +1,71 @@
+.navbar-inverse {
+    background:#03B3B2 !important;
+}
+ul.nav li.active a {
+	background-color:#038A89 !important;
+}
+.navbar .nav > li > a:hover {
+	background-color:#038A89 !important;
+}
+
+a {
+  color: #03B3B2;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #038A89;
+  text-decoration: underline;
+}
+
+
+.btn-primary {
+  background-color:#03B3B2 !important;
+ 
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #0E8C8C !important;
+  border-color: #285e8e;
+}
+
+a.list-group-item.active
+ {
+ 
+  background-color: #03B3B2;
+  border-color: #03B3B2;
+}
+a.list-group-item.active:hover,
+a.list-group-item.active:focus
+ {
+ 
+  background-color: #038A89;
+  border-color: #038A89;
+}
+
+.tdFooter0
+{
+	font-weight: bold;
+	font-size: 12px;
+	border-bottom: #26afd4 1px solid;
+	background-color:  #038A89;
+	color: #fff;
+	height:30px;
+}
+
+
+
+.dv { background-color:#FFFFFF; border: solid #038A89 1px; border-collapse: collapse; font-family:"segoe ui", arial, sans-serif; }
+.dv td { padding: 4px; }
+.dvh { text-align: right; white-space: nowrap; color: #fff; background-color: #03B3B2; font-weight: bold; }
+.dvhw { text-align: right; white-space: nowrap; color:Black; background-color:White; font-weight: bold; }
+
+.dvfilter { background-color:#FFFFFF; border: solid #038A89 1px; border-collapse: collapse; }
+.dvfilter td {  padding: 2px; }
+.dvhfilter { text-align: right; white-space: nowrap; color: #fff; background-color: #03B3B2; font-weight: bold; }
+.dvhcontrolfilter { text-align: left; }
+.dvhwfilter { text-align: right; white-space: nowrap; color:Black; background-color:White; font-weight: bold; }
